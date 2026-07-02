@@ -29,3 +29,9 @@ h1, h2, h3 {
 p {
   line-height: 1.6;
 }
+ .div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f5f5f5;}
